@@ -1,4 +1,3 @@
-# event_study_project
 **INTRODUCTION**
 
 The project is an investigation into the effects of the covid pandemic announcement by the WHO
